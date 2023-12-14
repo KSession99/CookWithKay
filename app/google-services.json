@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615230562665",
+    "project_id": "cookwkay",
+    "storage_bucket": "cookwkay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615230562665:android:a49a2aada0492857981df8",
+        "android_client_info": {
+          "package_name": "com.example.cookwithkay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZigMmigI5ldqEOUKAuPt_pGIBf7I6ZyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CookWithKay</string>
+    <string name="SplashText">Cooking with Kay!</string>
+    <string name="btLogin">Login</string>
+    <string name="loginEmail">Email or Username</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginSignup">Sign Up Now</string>
+    <string name="btHome">Search</string>
+    <string name="btFind">Find Recipe!</string>
+    <string name="tvSearch">Select Time and Ingredient</string>
+    <string-array name="ingredients">
+        <item>Select</item>
+        <item>Ground Beef/Turkey</item>
+        <item>Chicken</item>
+        <item>Salmon</item>
+    </string-array>
+    <string name="spHint">Select</string>
+    <string name="rbShort">30mins or less</string>
+    <string name="rbMedium">30 to 60 minutes</string>
+    <string name="rbLong">60mins or more</string>
+    <string name="action_settings">Settings</string>
+</resources>
